@@ -14,5 +14,5 @@
  * 5. Tempel URL tersebut pada API_URL di bawah ini
  */
 window.APP_CONFIG = {
-  API_URL: "https://script.google.com/macros/s/AKfycbz9qOc-fCElVt1NDDHFHxtJf8b9HXwyLiRkABJaZkiPnEtm97COr71YgDEZC7ATO-ei/exec"
+  API_URL: "https://script.google.com/macros/s/AKfycbz9qOc-fCElVt1NDJaZkiPnEtm97COr71YgDEZC7ATO-ei/exec"
 };
